@@ -1,0 +1,9 @@
+
+build/
+node_modules/
+package-lock.json
+yarn.lock
+public/css/modern.css
+public/css/corporate.css
+public/css/classic.css
+.env

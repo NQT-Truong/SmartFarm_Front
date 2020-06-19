@@ -1,0 +1,21 @@
+.RowPhoto-PhotoCamera-img{
+    max-width: 100%;
+}
+.RowPhoto-Row{
+    margin-bottom: 70px;
+}
+.RowPhoto-Label-date{
+    font-weight: bold;
+    font-size: large;
+    color: #216BA5;
+}
+.RowPhoto-PhotoCamera-modal-img{
+    max-width: 75%;
+    height: 500px;
+
+}
+
+.Modal-show-camera{
+    max-width: 75% !important;
+    max-height: 75% !important;
+}
