@@ -195,7 +195,7 @@ class Crypto extends React.Component {
             data-icons="Climacons Animated"
             data-theme="original"
           >
-            Đăk Lắk
+            Đăk Lắc
           </a>
 
           {(function (d, s, id) {
